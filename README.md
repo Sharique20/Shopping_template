@@ -1,4 +1,4 @@
 # Shopper-Template-Complete
 
-Live Link(https://khanafzal17.github.io/Shopper-Template-Complete/#)
+Live Link( https://sharique20.github.io/Shopping_template/ )
 
